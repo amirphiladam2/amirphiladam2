@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm an ECE student with a passion for blending technology and creativity. I love diving into projects that combine AI, Computer Vision, and hardware.</p>
+<p align="left">I'm an ECE student with a passion for blending technology and creativity. I love diving into projects that combine AI and hardware.</p>
 
 ###
 
