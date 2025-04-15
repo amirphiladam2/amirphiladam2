@@ -4,7 +4,7 @@
 
 <!-- Custom Title Section with Better Background -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+I'm+Amir+Philip;Embedded+Software+&IoT;React+Native+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+I'm+Amir+P.Adam;Embedded+Software+&IoT;React+Native+Developer;" alt="Typing SVG" />
 </h1>
 
 <!-- Introduction Banner with Custom Background -->
