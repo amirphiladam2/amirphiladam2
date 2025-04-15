@@ -166,10 +166,10 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/amirphiladam2/project1">
+  <a href="https://github.com/amirphiladam2/Wireless-Sensor-Network-With-LoRa">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirphiladam2&repo=project1&theme=radical&hide_border=true&title_color=FA428E&icon_color=FA428E" />
   </a>
-  <a href="https://github.com/amirphiladam2/project2">
+  <a href="https://github.com/amirphiladam2/Ground-Station">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=amirphiladam2&repo=project2&theme=radical&hide_border=true&title_color=FA428E&icon_color=FA428E" />
   </a>
 </div>
