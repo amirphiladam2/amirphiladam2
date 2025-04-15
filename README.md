@@ -4,7 +4,7 @@
 
 <!-- Custom Title Section with Better Background -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+I'm+Amir+Philip;Embedded+Developer;IoT+Engineer;React+Native+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=F85D7F&center=true&vCenter=true&random=false&width=500&height=70&lines=Hello+I'm+Amir+Philip;Embedded+Software+&IoT;React+Native+Developer" alt="Typing SVG" />
 </h1>
 
 <!-- Introduction Banner with Custom Background -->
@@ -20,12 +20,12 @@
 <table align="center">
   <tr>
     <td width="60%">
-      <h3>Embedded Systems Developer & IoT Enthusiast</h3>
+      <h3>Embedded Software & IoT Developer</h3>
       <p>
-        👋 I'm an ECE student passionate about creating intelligent devices that bridge hardware and software. I specialize in embedded systems development, IoT solutions, and mobile applications with React Native.
+        👋 I'm a 3rd-year Electronics and Communication Engineering student who loves technology and its endless possibilities. My interests lie in Embedded Systems and IoT, where I explore innovative ways to connect hardware and software. Additionally, I am passionate about App Development and enjoy creating seamless mobile experiences using React Native. With a constant drive to learn and grow, I aim to turn ideas into impactful solutions that make a difference. I created AmirDevStudio to showcase my projects, skills, and services. Feel free to explore my portfolio and get in touch if you'd like to collaborate on a project or learn more about my work.
       </p>
       <p>
-        💡 With a focus on STM32 microcontrollers, sensor integration, and real-time systems, I build solutions that connect the physical world to digital experiences.
+        💡 With a focus on microcontrollers, sensor integration, and real-time systems, I build solutions that connect the physical world to digital experiences.
       </p>
       <p>
         🚀 When not debugging hardware, I explore new technologies, contribute to open-source projects, and develop cross-platform mobile apps.
