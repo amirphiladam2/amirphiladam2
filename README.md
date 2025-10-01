@@ -50,9 +50,11 @@ const amir = {
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **🔌 IoT Energy Monitor** | Real-time power monitoring system with cloud connectivity | STM32, MQTT, React Native |
-| **📱 Cross-Platform Control App** | Mobile application for IoT device management | React Native, BLE, REST API |
-| **📚 Embedded Sensor Library** | Efficient low-power sensor data acquisition library | C/C++, HAL, FreeRTOS |
+| **💰 Finance Tracker App** | Mobile application for personal finance tracking with visualization and budget planning | React Native, Charts, Local Storage |
+| **📡 LoRa Wireless Sensor Network** | Complete wireless sensor network solution using LoRa technology for long-range communication | LoRa, Embedded C, IoT Protocols |
+| **🏠 Smart Home Automation System** | Integrated embedded system for home automation using microcontrollers and IoT technology | STM32, IoT, Sensors |
+
+🌐 **[View All Projects →](https://amirp.netlify.app)**
 
 </div>
 
