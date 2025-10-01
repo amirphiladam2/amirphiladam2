@@ -20,7 +20,7 @@
 <table align="center">
   <tr>
     <td width="60%">
-      <h3>Embedded Systems Developer & IoT Enthusiast</h3>
+      <h3>Embedded Software Developer </h3>
       <p>
         👋 I'm an ECE student passionate about creating intelligent devices that bridge hardware and software. I specialize in embedded systems development, IoT solutions, and mobile applications with React Native.
       </p>
