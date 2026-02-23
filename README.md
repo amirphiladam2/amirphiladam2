@@ -12,7 +12,7 @@
 const amir = {
     education: "ECE Student",
     role: "Embedded Software Developer",
-    specialization: ["STM32 Microcontrollers", "IoT Solutions", "React Native"],
+    specialization: ["STM32 Microcontrollers", "ESP32","IoT Solutions", "React Native"],
     currentFocus: "Real-time Systems & Sensor Integration",
     interests: ["Hardware-Software Integration", "Mobile Development", "Open Source"],
     motto: "Connecting the physical world to digital experiences"
@@ -35,26 +35,26 @@ const amir = {
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-00A1E0?style=for-the-badge&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 </div>
 
 ## 🚀 Featured Projects
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **💰 Finance Tracker App** | Mobile application for personal finance tracking with visualization and budget planning | React Native, Charts, Local Storage |
-| **📡 LoRa Wireless Sensor Network** | Complete wireless sensor network solution using LoRa technology for long-range communication | LoRa, Embedded C, IoT Protocols |
-| **🏠 Smart Home Automation System** | Integrated embedded system for home automation using microcontrollers and IoT technology | STM32, IoT, Sensors |
-
-🌐 **[View All Projects →](https://amirp.netlify.app)**
+🌐 **[View All Projects →](https://amiradam.tech)**
 
 </div>
 
@@ -83,11 +83,11 @@ const amir = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-philip-29872524b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirphiladam)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/amirphiladam)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tackleeng904)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@amirdevstudio-1)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@amirphiladam)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amirp_2808)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amirphiladam)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/amirphiladam)
 
 </div>
