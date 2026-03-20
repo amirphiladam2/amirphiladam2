@@ -1,7 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=250&section=header&text=Amir%20P.%20Adam&fontSize=80&fontAlignY=35&desc=Embedded%20Software%7C%20React%20Native%20Developer&descAlignY=55&descSize=20" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&customColorList=10&height=280&section=header&text=Amir%20P.%20Adam&fontSize=80&fontAlignY=38&desc=Embedded%20Systems%20%E2%80%A2%20React%20Native%20Expert&descAlignY=58&descSize=22&animation=fadeIn" width="100%" />
 
+  <p align="center">
+    <img src="https://img.shields.io/badge/Embedded-C%2F%2B%2B-00599C?style=flat-square&logo=cplusplus" />
+    <img src="https://img.shields.io/badge/Mobile-React_Native-61DAFB?style=flat-square&logo=react" />
+    <img src="https://img.shields.io/badge/Hardware-RTOS-FFB000?style=flat-square" />
+  </p>
+</div>
 ## 👨‍💻 About Me
 ECE student focused on embedded firmware and connected systems.  
 I design microcontroller-based solutions, integrate sensors, and build IoT architectures that connect hardware to real-world software platforms.
