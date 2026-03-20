@@ -1,9 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20,24,30&height=280&section=header&text=Amir%20P.%20Adam&fontSize=80&fontAlignY=32&desc=Embedded%20Software%20%26%20IoT&descAlignY=48&descSize=22&animation=fadeIn&fontColor=ffffff" />
-  
-  <p style="margin-top: -35px; font-size: 18px; color: #61DAFB; font-weight: 500;">
-    React Native Developer
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=250&section=header&text=Amir%20P.%20Adam&fontSize=80&fontAlignY=35&desc=Embedded%20Software%7C%20React%20Native%20Developer&descAlignY=55&descSize=20" />
 </div>
 
 ## 👨‍💻 About Me
