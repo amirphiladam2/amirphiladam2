@@ -1,20 +1,28 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Amir%20P.%20Adam&fontSize=70&fontAlignY=35&desc=Embedded%20Software%20%26%20IoT%20%7C%20React%20Native%20Developer&descAlignY=60&descSize=21" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=220&section=header&text=Amir%20P.%20Adam&fontSize=80&fontAlignY=35&desc=EMBEDDED%20SOFTWARE%20%26%20IoT%20|%20React%20Native%20Developer&descAlignY=60&descSize=22&animation=twinkle" width="100%" />
 
   <br />
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-    <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
-    <img src="https://img.shields.io/badge/AWS%20IoT-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    
-    <span style="display: inline-block; width: 10px;"></span>
-
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  </p>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <strong>⚡ Embedded & IoT Stack</strong><br />
+        <br />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white" />
+        <img src="https://img.shields.io/badge/FreeRTOS-0081C9?style=flat" />
+        <img src="https://img.shields.io/badge/MQTT-3C3C3D?style=flat" />
+      </td>
+      <td align="center" width="50%">
+        <strong>📱 React Native Stack</strong><br />
+        <br />
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+      </td>
+    </tr>
+  </table>
 </div>
 ## 👨‍💻 About Me
 ECE student focused on embedded firmware and connected systems.  
