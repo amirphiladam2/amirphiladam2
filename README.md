@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=12151a&height=220&section=header&text=Amir%20P.%20Adam&fontSize=75&fontAlignY=40&desc=EMBEDDED%20SOFTWARE%20%26%20IOT%20%7C%20React%20Native%20Developer&descAlignY=65&descSize=22" width="100%" />
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=250&section=header&text=Amir%20P.%20Adam&fontSize=80&fontAlignY=35&desc=Embedded%20Software%7C%20React%20Native%20Developer&descAlignY=55&descSize=20" />
 </div>
 ## 👨‍💻 About Me
 ECE student focused on embedded firmware and connected systems.  
