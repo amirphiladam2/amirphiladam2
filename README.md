@@ -1,10 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&customColorList=10&height=280&section=header&text=Amir%20P.%20Adam&fontSize=80&fontAlignY=38&desc=Embedded%20Systems%20%E2%80%A2%20React%20Native%20Expert&descAlignY=58&descSize=22&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=Amir%20P.%20Adam&fontSize=70&fontAlignY=35&desc=Embedded%20Software%20%26%20IoT%20%7C%20React%20Native%20Developer&descAlignY=60&descSize=21" width="100%" />
+
+  <br />
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Embedded-C%2F%2B%2B-00599C?style=flat-square&logo=cplusplus" />
-    <img src="https://img.shields.io/badge/Mobile-React_Native-61DAFB?style=flat-square&logo=react" />
-    <img src="https://img.shields.io/badge/Hardware-RTOS-FFB000?style=flat-square" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+    <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS%20IoT-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    
+    <span style="display: inline-block; width: 10px;"></span>
+
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
   </p>
 </div>
 ## 👨‍💻 About Me
