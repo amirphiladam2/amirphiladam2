@@ -3,6 +3,7 @@
 </div>
 
 ##👨‍💻About Me
+
 ECE student focused on embedded firmware and connected systems.  
 I design microcontroller-based solutions, integrate sensors, and build IoT architectures that connect hardware to real-world software platforms.
 
