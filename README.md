@@ -15,9 +15,12 @@
   <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
+<br><br>
+
+⚡ Embedded systems enthusiast&nbsp;&nbsp;·&nbsp;&nbsp;🧹 Clean code advocate&nbsp;&nbsp;·&nbsp;&nbsp;📚 Lifelong learner&nbsp;&nbsp;·&nbsp;&nbsp;🌍 Open source contributor
+
 </div>
 
-<br>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 🧰 Tech Stack
@@ -57,56 +60,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 📌 Pinned Repositories
-
-<!-- Swap these repo names/descriptions for your real ones — GitHub can't pull live stars/forks into a README image, so update the numbers if you keep this table. Consider also using GitHub's native "Pin repositories" feature on your profile, which does this automatically with live data. -->
-
-<table>
-<tr>
-<td width="50%">
-
-**[Caloriee](https://github.com/amirphiladam2/caloriee)**
-AI-powered calorie tracker & recipe generator, published on Google Play
-`React Native` `Expo` `Supabase`
-
-</td>
-<td width="50%">
-
-**[esp32-lora-mesh](https://github.com/amirphiladam2/esp32-lora-mesh)**
-Hybrid ESP32 + LoRa mesh communication system for disaster scenarios
-`C++` `LoRa` `ESP-NOW`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[edgeai-surveillance](https://github.com/amirphiladam2/edgeai-surveillance)**
-Edge AI smart surveillance system using Raspberry Pi & TensorFlow Lite
-`Python` `Raspberry Pi` `AI`
-
-</td>
-<td width="50%">
-
-**[finance-tracker](https://github.com/amirphiladam2/finance-tracker)**
-Budget tracker with custom theming, gradient cards & SVG analytics
-`React Native` `TypeScript`
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-### 📊 GitHub Analytics
+### 📊 Streak & Top Languages
 
 <p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=amirphiladam2&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirphiladam2&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirphiladam2&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Contribution Graph" width="97%" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=amirphiladam2&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirphiladam2&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
