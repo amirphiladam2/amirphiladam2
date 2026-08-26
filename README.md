@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Dynamic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=250&section=header&text=Amir%20P.%20Adam&fontSize=70&fontAlignY=35&desc=Embedded%20Software%20%7C%20React%20Native%20Developer&descAlignY=55&descSize=20&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=250&section=header&text=Amir%20P.%20Adam&fontSize=70&fontAlignY=35&desc=Embedded%20Firmware%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn" width="100%" alt="Header" />
 
   <!-- Social Badges -->
   <p align="center">
@@ -23,9 +23,9 @@
 
 ## 👋 About Me
 
-> **ECE graduate focused on embedded firmware and connected systems.**
+> **ECE graduate focused on embedded firmware, software development and connected systems.**
 
-I design microcontroller-based solutions, integrate sensors, and build IoT architectures that connect hardware to real-world software platforms — then ship the software layer myself, from low-level firmware up to responsive mobile and web applications.
+I design microcontroller-based solutions, integrate sensors, and build IoT architectures that connect hardware to real-world software platforms  then ship the software layer myself, from low-level firmware up to responsive mobile and web applications.
 
 <br>
 
@@ -37,7 +37,8 @@ I design microcontroller-based solutions, integrate sensors, and build IoT archi
 
 <table>
 <tr>
-<td align="center" width="20%">
+
+<td align="center" width="25%">
 
 ### 🎨 Frontend
 
@@ -54,41 +55,26 @@ I design microcontroller-based solutions, integrate sensors, and build IoT archi
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="25%">
 
 ### ⚙️ Backend
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,py&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,py,supabase,firebase&theme=dark" />
 </a>
 
 <br>
 
 <sub>
-<b>NestJS</b> · <b>Node.js</b> · <b>Python</b>
-</sub>
-
-</td>
-
-<td align="center" width="20%">
-
-### 🗄️ Database
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=supabase,firebase&theme=dark" />
-</a>
-
-<br>
-
-<sub>
+<b>NestJS</b> · <b>Node.js</b> · <b>Python</b> ·
 <b>Supabase</b> · <b>Firebase</b>
 </sub>
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="25%">
 
-### 🔧 Embedded
+### 🔧 Embedded & IoT
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi&theme=dark" />
@@ -97,32 +83,15 @@ I design microcontroller-based solutions, integrate sensors, and build IoT archi
 <br>
 
 <sub>
-<b>C</b> · <b>C++</b> · <b>Arduino</b> · <b>Raspberry Pi</b>
+<b>C</b> · <b>C++</b> · <b>Arduino</b> · <b>Raspberry Pi</b> ·
+<b>IoT</b>
 </sub>
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="25%">
 
-### 📡 IoT
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python&theme=dark" />
-</a>
-
-<br>
-
-<sub>
-<b>Arduino</b> · <b>Raspberry Pi</b> · <b>Python</b>
-</sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### 🛠️ Development Tools
+### 🛠️ Tools
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu&theme=dark" />
@@ -134,9 +103,14 @@ I design microcontroller-based solutions, integrate sensors, and build IoT archi
 <b>Git</b> · <b>GitHub</b> · <b>VS Code</b> · <b>Ubuntu</b>
 </sub>
 
-</div>
+</td>
 
+</tr>
+</table>
+
+</div>
 <br>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
