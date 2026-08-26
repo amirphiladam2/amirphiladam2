@@ -1,535 +1,135 @@
 <div align="center">
 
-# 👋 Hi, I'm **Amir**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=250&section=header&text=Hi,%20I'm%20Amir%20👋&fontSize=60&fontAlignY=35&desc=I%20build%20embedded%20systems%20and%20mobile%20%26%20web%20applications%20that%20solve%20real-world%20problems&descAlignY=55&descSize=16" />
 
-### Embedded Systems Engineer · Full-Stack & React Native Developer
-
-I build **embedded systems, IoT platforms, mobile applications and web applications**
-that connect software with the real world.
-
-<br>
-
-<a href="https://github.com/amirphiladam2">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<a href="https://www.linkedin.com/in/amirphiladam">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://x.com/amirphiladam">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="https://youtube.com/@AmirDevStudio">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+<a href="https://www.youtube.com/@amirdevstudios">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<a href="https://amirp.dev">
-<img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm an **Electronics & Communication Engineering graduate** interested in the intersection of **embedded hardware, software engineering and connected systems**.
-
-I enjoy taking an idea from a circuit or sensor all the way to a production-style application.
-
-```text
-Sensors / Hardware
-        ↓
-Microcontrollers
-        ↓
-Communication
-        ↓
-Backend / Cloud
-        ↓
-Mobile / Web
-        ↓
-Real-world Application
-```
-
-### What I work on
-
-* 🔧 Embedded firmware and microcontrollers
-* 📡 IoT and wireless communication
-* 📱 React Native applications
-* 🌐 Full-stack web applications
-* ☁️ Cloud-connected systems
-* 🤖 Edge AI and computer vision
-* 🧠 System design and backend architecture
-
----
-
-# 🛠️ Tech Stack
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 💻 Languages
-
-<table>
-<tr>
-<td>
-
-**Core**
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
-
-</td>
-<td>
-
-**Web**
-
-<img src="https://skillicons.dev/icons?i=typescript,javascript&theme=dark" />
-
-</td>
-</tr>
-</table>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎨 Frontend & Mobile
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,expo,tailwind&theme=dark" />
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express&theme=dark" />
-
-<br><br>
-
-**Architecture**
-
-`REST APIs` · `Authentication` · `ORM` · `API Design`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🗄️ Databases & Services
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase,prisma&theme=dark" />
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🔧 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,aws&theme=dark" />
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📡 Embedded & IoT
-
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
-
-<br><br>
-
-`ESP32` · `STM32` · `LoRa` · `ESP-NOW` · `AWS IoT`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📊 GitHub Overview
-
-<div align="center">
-
-<a href="https://github.com/amirphiladam2">
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=amirphiladam2&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github"/>
-</a>
-
-<a href="https://github.com/amirphiladam2">
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirphiladam2&layout=compact&langs_count=8&hide_border=true&theme=github_dark"/>
-</a>
-
-</div>
-
----
-
-# 🔥 Contribution & Streak
-
-<div align="center">
-
-<a href="https://github.com/amirphiladam2">
-
-<img
-src="https://streak-stats.demolab.com?user=amirphiladam2&theme=github-dark-blue&hide_border=true"
-width="60%"
-/>
-
+<a href="https://amiradam.tech">
+  <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 </div>
 
 <br>
 
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=amirphiladam2&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&hide_border=true"
-width="95%"
-/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=amirphiladam2&show=reviews,discussions_started,discussions_answered,prs_merged&hide_border=true&theme=github_dark"
-/>
-
-</div>
-
----
-
-# 📌 Featured Projects
-
-<table>
-
+<table align="center">
 <tr>
+<td valign="top" width="60%">
 
-<td width="50%" valign="top">
-
-## 🎬 Showfinity
-
-**Movie Recommendation Platform**
-
-A mobile application for discovering movies, searching titles and managing a personal watchlist.
-
-**Stack**
-
-`TypeScript` · `React Native` · `Expo` · `TMDB API`
-
-<a href="https://github.com/amirphiladam2">
-<img src="https://img.shields.io/badge/View%20Repository-21262D?style=flat-square&logo=github">
-</a>
+**⚡ Embedded systems enthusiast**
+**🧹 Clean code advocate**
+**📚 Lifelong learner**
+**🌍 Open source contributor**
 
 </td>
+<td valign="top" width="40%">
 
-<td width="50%" valign="top">
-
-## 🥬 FreshGuard
-
-**IoT Food Freshness Monitoring**
-
-A connected monitoring system using environmental sensors and an ESP32 to monitor food-storage conditions.
-
-**Stack**
-
-`C++` · `ESP32` · `AWS IoT`
-
-<a href="https://github.com/amirphiladam2">
-<img src="https://img.shields.io/badge/View%20Repository-21262D?style=flat-square&logo=github">
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=amirphiladam2&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" width="100%"/>
 
 </td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🛒 NileCart
-
-**Full-Stack E-Commerce Platform**
-
-An e-commerce platform with separate buyer and seller experiences.
-
-**Stack**
-
-`TypeScript` · `Next.js` · `NestJS` · `PostgreSQL`
-
-<a href="https://github.com/amirphiladam2">
-<img src="https://img.shields.io/badge/View%20Repository-21262D?style=flat-square&logo=github">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🤖 Edge AI Surveillance
-
-**Edge AI Smart Surveillance**
-
-Real-time object detection and automated alerts running locally on Raspberry Pi.
-
-**Stack**
-
-`Python` · `Raspberry Pi` · `TensorFlow Lite`
-
-<a href="https://github.com/amirphiladam2">
-<img src="https://img.shields.io/badge/View%20Repository-21262D?style=flat-square&logo=github">
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 📡 ESP32-LoRa Mesh
-
-**Disaster-Resilient Communication System**
-
-A hybrid communication system combining LoRa and ESP-NOW for infrastructure-independent communication.
-
-**Stack**
-
-`C++` · `ESP32` · `LoRa` · `ESP-NOW` · `GPS`
-
-<a href="https://github.com/amirphiladam2">
-<img src="https://img.shields.io/badge/View%20Repository-21262D?style=flat-square&logo=github">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 📊 IoT Sensor Dashboard
-
-**Real-Time IoT Monitoring**
-
-A web dashboard for visualizing sensor data collected from ESP32 devices.
-
-**Stack**
-
-`React` · `Vite` · `Flask` · `ESP32` · `DHT11`
-
-<a href="https://github.com/amirphiladam2">
-<img src="https://img.shields.io/badge/View%20Repository-21262D?style=flat-square&logo=github">
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🧠 Current Focus
-
-<table>
-<tr>
-
-<td align="center" width="25%">
-
-### ⚡ Embedded
-
-`STM32`
-
-`FreeRTOS`
-
-`ARM`
-
-`Bare Metal`
-
-</td>
-
-<td align="center" width="25%">
-
-### 📡 IoT
-
-`ESP32`
-
-`LoRa`
-
-`ESP-NOW`
-
-`AWS IoT`
-
-</td>
-
-<td align="center" width="25%">
-
-### 📱 Mobile
-
-`React Native`
-
-`Expo`
-
-`TypeScript`
-
-`Supabase`
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐 Backend
-
-`NestJS`
-
-`PostgreSQL`
-
-`Prisma`
-
-`Docker`
-
-</td>
-
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-# 🏆 Achievements
+### 🧰 Tech Stack
 
-<div align="center">
+**Languages**
 
-<img
-src="https://github-profile-trophy.vercel.app/?username=amirphiladam2&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"
-/>
+<img src="https://skillicons.dev/icons?i=c,cpp,py,ts,js&theme=dark" />
 
-</div>
+**Frontend**
 
----
+<img src="https://skillicons.dev/icons?i=react,nextjs,react,expo,tailwind&theme=dark" />
 
-# 📚 Engineering Interests
+<sub>React · Next.js · React Native · Expo · Tailwind CSS · NativeWind</sub>
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,firebase,prisma&theme=dark" />
+
+<sub>Node.js · NestJS · Express.js · Firebase · Prisma</sub>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase&theme=dark" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux&theme=dark" />
+
+**Embedded & IoT**
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+![LoRa](https://img.shields.io/badge/LoRa-4B5563?style=flat-square)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=flat-square&logo=platformio&logoColor=white)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+### 📌 Pinned Repositories
+
+<!-- Swap these repo names/descriptions for your real ones — GitHub can't pull live stars/forks into a README image, so update the numbers if you keep this table. Consider also using GitHub's native "Pin repositories" feature on your profile, which does this automatically with live data. -->
 
 <table>
 <tr>
+<td width="50%">
 
-<td width="33%" align="center">
-
-### 🔩 Embedded Systems
-
-Microcontrollers
-Firmware
-RTOS
-Peripheral Drivers
-ARM Architecture
+**[Caloriee](https://github.com/amirphiladam2/caloriee)**
+AI-powered calorie tracker & recipe generator, published on Google Play
+`React Native` `Expo` `Supabase`
 
 </td>
+<td width="50%">
 
-<td width="33%" align="center">
-
-### 🌐 Connected Systems
-
-IoT
-Wireless Networks
-LoRa
-ESP-NOW
-Cloud Connectivity
+**[esp32-lora-mesh](https://github.com/amirphiladam2/esp32-lora-mesh)**
+Hybrid ESP32 + LoRa mesh communication system for disaster scenarios
+`C++` `LoRa` `ESP-NOW`
 
 </td>
+</tr>
+<tr>
+<td width="50%">
 
-<td width="33%" align="center">
-
-### 💻 Software Engineering
-
-Mobile Apps
-Backend APIs
-Databases
-System Design
-Developer Tools
+**[edgeai-surveillance](https://github.com/amirphiladam2/edgeai-surveillance)**
+Edge AI smart surveillance system using Raspberry Pi & TensorFlow Lite
+`Python` `Raspberry Pi` `AI`
 
 </td>
+<td width="50%">
 
+**[finance-tracker](https://github.com/amirphiladam2/finance-tracker)**
+Budget tracker with custom theming, gradient cards & SVG analytics
+`React Native` `TypeScript`
+
+</td>
 </tr>
 </table>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-# 🚀 Projects I'm Proud Of
+### 📊 GitHub Analytics
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  ESP32 + LoRa Mesh                                          │
-│  Disaster-resilient communication                           │
-│                                                             │
-│  FreshGuard                                                  │
-│  IoT food freshness monitoring                              │
-│                                                             │
-│  Edge AI Surveillance                                       │
-│  Local computer vision on Raspberry Pi                      │
-│                                                             │
-│  Showfinity                                                   │
-│  React Native movie discovery platform                      │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=amirphiladam2&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=C9D1D9" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirphiladam2&layout=pie&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirphiladam2&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Contribution Graph" width="97%" />
+</p>
 
-# 🌱 Learning & Building
-
-Currently going deeper into:
-
-* **STM32 firmware development**
-* **ARM architecture and memory**
-* **FreeRTOS**
-* **UART / SPI / I²C / DMA**
-* **NestJS architecture**
-* **PostgreSQL & Prisma**
-* **Distributed IoT systems**
-* **Edge AI**
-
----
-
-# 📫 Connect With Me
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
-
-<a href="https://github.com/amirphiladam2">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://amirp.dev">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=googlechrome&logoColor=white">
-</a>
-
-<a href="https://youtube.com/@AmirDevStudio">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### **Build → Break → Learn → Build Better. 🚀**
-
-</div>
-
----
-
-<div align="center">
-
-<img
-src="https://komarev.com/ghpvc/?username=amirphiladam2&style=flat-square&color=3fb950"
-/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=120&section=footer" />
 </div>
