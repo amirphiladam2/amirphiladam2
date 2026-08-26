@@ -18,25 +18,6 @@
 </div>
 
 <br>
-
-<table align="center">
-<tr>
-<td valign="top" width="60%">
-
-**⚡ Embedded systems enthusiast**
-**🧹 Clean code advocate**
-**📚 Lifelong learner**
-**🌍 Open source contributor**
-
-</td>
-<td valign="top" width="40%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amirphiladam2&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=58A6FF" alt="GitHub Stats" width="100%"/>
-
-</td>
-</tr>
-</table>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ### 🧰 Tech Stack
