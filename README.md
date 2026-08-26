@@ -1,5 +1,5 @@
  <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=250&section=header&text=Amir%20P.%20Adam&fontSize=70&fontAlignY=35&desc=Embedded%20Software%20%7C%20React%20Native%20Developer&descAlignY=55&descSize=20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,20&height=250&section=header&text=Amir%20P.%20Adam&fontSize=70&fontAlignY=35&desc=Embedded%20Systems%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20&animation=fadeIn" />
 <a href="https://www.linkedin.com/in/amirphiladam">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -14,8 +14,8 @@
 </a>
 </div>
 <br>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">👋 About Me
-ECE graduate focused on embedded firmware and connected systems. I design microcontroller-based solutions, integrate sensors, and build IoT architectures that connect hardware to real-world software platforms — then ship the software layer myself, from firmware up to the mobile and web apps that sit on top of it.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">👋 Hi, I'm Amir
+ECE graduate focused on embedded firmware, software development and connected systems. I design microcontroller-based solutions, integrate sensors, and build IoT architectures that connect hardware to real-world software platforms-then ship the software layer myself, from firmware up to the mobile and web apps that sit on top of it.
 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">🧰 Tech Stack
