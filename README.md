@@ -35,30 +35,104 @@ I design microcontroller-based solutions, integrate sensors, and build IoT archi
 
 <div align="center">
 
-### 🌐 Web & Mobile
+<table>
+<tr>
+<td align="center" width="20%">
+
+### 🎨 Frontend
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js,nestjs,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,ts,js&theme=dark" />
 </a>
+
 <br>
-<sub><b>Next.js</b> · <b>React Native</b> (NativeWind) · <b>Tailwind CSS</b> · <b>TypeScript</b> · <b>JavaScript</b> · <b>NestJS</b> · <b>Node.js</b></sub>
 
-<br><br>
+<sub>
+<b>Next.js</b> · <b>React Native</b> · <b>NativeWind</b> ·
+<b>Tailwind CSS</b> · <b>TypeScript</b> · <b>JavaScript</b> · <b>Expo</b>
+</sub>
 
-### ⚡ Embedded & Hardware
+</td>
+
+<td align="center" width="20%">
+
+### ⚙️ Backend
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,py&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,py&theme=dark" />
 </a>
+
 <br>
-<sub><b>C</b> · <b>C++</b> · <b>Arduino</b> · <b>Raspberry Pi</b> · <b>Python</b></sub>
 
-<br><br>
+<sub>
+<b>NestJS</b> · <b>Node.js</b> · <b>Python</b>
+</sub>
 
-### 🛠️ Tools & Platforms
+</td>
+
+<td align="center" width="20%">
+
+### 🗄️ Database
+
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,expo,supabase,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=supabase,firebase&theme=dark" />
 </a>
+
 <br>
-<sub><b>Git</b> · <b>GitHub</b> · <b>VS Code</b> · <b>Ubuntu</b> · <b>Expo</b> · <b>Supabase</b> · <b>Firebase</b></sub>
+
+<sub>
+<b>Supabase</b> · <b>Firebase</b>
+</sub>
+
+</td>
+
+<td align="center" width="20%">
+
+### 🔧 Embedded
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi&theme=dark" />
+</a>
+
+<br>
+
+<sub>
+<b>C</b> · <b>C++</b> · <b>Arduino</b> · <b>Raspberry Pi</b>
+</sub>
+
+</td>
+
+<td align="center" width="20%">
+
+### 📡 IoT
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,python&theme=dark" />
+</a>
+
+<br>
+
+<sub>
+<b>Arduino</b> · <b>Raspberry Pi</b> · <b>Python</b>
+</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🛠️ Development Tools
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu&theme=dark" />
+</a>
+
+<br>
+
+<sub>
+<b>Git</b> · <b>GitHub</b> · <b>VS Code</b> · <b>Ubuntu</b>
+</sub>
 
 </div>
 
